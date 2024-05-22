@@ -2,21 +2,6 @@
 
 ###
 
-<div align="center">
-  <a href="mailto:ziadalnagdev@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="28" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/ziad-alnagar-27110220b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="28" alt="linkedin logo"  />
-  </a>
-  <img width="10" />
-  <a href="https://join.skype.com/invite/OIr6UVFf3fDj" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/skype/skype-icon.svg" width="28" height="28" alt="skype logo"  />
-  </a>
-</div>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
